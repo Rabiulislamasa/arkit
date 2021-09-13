@@ -1,0 +1,130 @@
+/*
+Theme Name: Arkit
+Theme URI:
+Author:MD Rabiul Islam
+Author URI: mdrabiulislamasa.com
+Description: This theme will help you to make arkitect company website.
+Version: 1.0
+License: 
+License URI: 
+Tags: 
+Text Domain: arkit
+*/
+.title-text{
+    font-weight: bold;
+    color:white !important;
+}
+.navbar-brand{
+    color:#bfca02 !important;
+    font-weight: bold !important;
+    font-size: 35px !important;
+    text-transform: uppercase !important;
+}
+li.page_item a:active {color:#bfca02 !important;}
+li.page_item a {
+    color: #8d9aa8 !important;
+}
+li.cat-item a:active {color:#bfca02 !important;}
+li.cat-item a {
+    color: #8d9aa8 !important;
+}
+li.widget {
+    list-style: none !important;
+}
+table#wp-calendar {
+    width: 100% !important;
+}
+span.screen-reader-text {
+    display: none !important;
+}
+input.search-field {
+    background-color: #f5f5f5 !important;
+    box-shadow: none !important;
+    width: 100% !important;
+    display: block !important;
+    border: 1px solid #5f5252 !important;
+    color: #263a4f !important;
+    height: auto !important;
+    padding: 15px 20px !important;
+    border-radius: 2px !important;
+    padding-right: 60px !important;
+}
+input.search-submit {
+    font-size: 15px !important;
+    color: #263a4f !important;
+    width: 60px !important;
+    height: 100% !important;
+    position: absolute !important;
+    top: 0 !important;
+    right: 0 !important;
+    display: block !important;
+    opacity: 0.6 !important;
+}
+.search-form {
+    margin-left: -5px !important;
+    position:relative !important;
+}
+.search-form label{
+    margin-bottom: 0px !important;
+    width:100% !important;
+}
+.comment-form-cookies-consent{
+    display:none !important;
+}
+.comment-metadata a{
+    color:black;
+}
+b.fn a{color:black}
+b.fn{
+    padding-left: 2%;}
+.comment-metadata{
+    padding-left: 2%;
+    display:inline !important;
+}
+span.says {
+    display: none;
+}
+.comment-content,.reply{
+    padding-left: 15%;
+}
+.comment-author.vcard {
+    display: inline !important;
+}
+img.avatar.photo {
+    border-radius: 50%;
+}
+
+input.wpcf7-form-control.wpcf7-submit {
+    border: none;
+}
+input.wpcf7-form-control.wpcf7-submit {
+    background-color: #bfca02;
+    text-transform: uppercase;
+    font-family: "Work Sans",sans-serif;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 2px;
+    line-height: 50px;
+    font-weight: 600;
+    display: inline-block;
+    letter-spacing: 0.5px;
+    padding: 0 30px;
+    -webkit-box-shadow: 0 3px 10px rgb(71 44 173 / 20%);
+    box-shadow: 0 3px 10px rgb(71 44 173 / 20%);
+}
+
+.project-item img {
+    height: 230px !important;
+}
+.sponsor-item img {
+    height: 100px !important;
+}
+.service-content h3 {
+    margin-top: 12% !important;
+}
+.service-thumb img {
+    height: 230px;
+}
+.header-height{height:0px !important}
+.wp-caption,.wp-caption-text, .gallery-caption,.bypostauthor,.alignright,.alignleft,.aligncenter{margin: 0em;}
+.no-customize-support{}
